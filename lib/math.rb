@@ -1,6 +1,6 @@
 def addition(num1, num2)
   #addition adds two numbers together do 
-  addition = ( num2 + num1 )
+  addition = ( num1 + num2 )
   
   puts addition 
 end
@@ -28,10 +28,10 @@ end
 
 def modulo(num1, num2)
     modulo = (num2 % num1)
-    puts modulo
+    p modulo
 end
 
 def square_root(num)
-    square_root 
-    puts square_root
+    Math.sqrt( )
+    p 
 end
