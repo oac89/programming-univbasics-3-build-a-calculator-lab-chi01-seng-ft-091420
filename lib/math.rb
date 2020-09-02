@@ -2,7 +2,7 @@ def addition(num1, num2)
   #addition adds two numbers together do 
   (addition (num1 + num2) )
   
-  puts 
+  addition  
 end
 
 
