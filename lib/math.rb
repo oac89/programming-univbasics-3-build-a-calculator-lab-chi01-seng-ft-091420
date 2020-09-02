@@ -1,16 +1,16 @@
 def addition(num1, num2)
   #addition adds two numbers together do 
-  (addition (num1 + num2) )
+   puts num2 + num1 
   
-  addition  
+  
 end
 
 
 def subtraction(num1, num2)
     
-    subtraction = ( num2 - num1 )
+    puts ( num2 - num1 )
     
-  subtarction
+  
 end
 
 def division(num1, num2)
