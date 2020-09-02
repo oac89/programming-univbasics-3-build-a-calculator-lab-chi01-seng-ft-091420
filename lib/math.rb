@@ -18,7 +18,7 @@ end
 
 def division(num1, num2)
     
-      division = num2 / num1
+      division = num1 / num2
    
     division 
 
