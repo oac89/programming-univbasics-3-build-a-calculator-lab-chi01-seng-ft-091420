@@ -10,13 +10,13 @@ def subtraction(num1, num2)
     
     subtraction = ( num2 - num1 )
     
-    puts 
+  subtarction
 end
 
 def division(num1, num2)
     division = (num2 / num1)
    
-    puts division 
+     division 
 
 end
 
