@@ -7,7 +7,7 @@ end
 
 
 def subtraction(num1, num2)
-    subtraction = (num1 - num2)
+    subtraction = (num2 - num1)
     
     puts 
 end
