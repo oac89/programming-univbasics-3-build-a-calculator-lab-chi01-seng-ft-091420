@@ -2,14 +2,14 @@ def addition(num1, num2)
   #addition adds two numbers together do 
   addition = ( num1 + num2 )
   
-  puts addition 
+  puts 
 end
 
 
 def subtraction(num1, num2)
-    subtraction = (num2 - num1)
+    subtraction = (num1 - num2)
     
-    puts subtraction
+    puts 
 end
 
 def division(num1, num2)
