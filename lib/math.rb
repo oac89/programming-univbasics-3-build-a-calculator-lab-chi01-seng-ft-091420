@@ -1,6 +1,6 @@
 def addition(num1, num2)
   #addition adds two numbers together do 
-  addition = ( num1, num2 )
+  addition = ( num1, num2)
   
   puts 
 end
@@ -33,5 +33,5 @@ end
 
 def square_root(num)
     Math.sqrt( num )
-    p 
+    square_root 
 end
