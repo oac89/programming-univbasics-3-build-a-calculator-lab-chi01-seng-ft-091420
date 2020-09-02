@@ -1,7 +1,9 @@
 def addition(num1, num2)
   #addition adds two numbers together do 
-   puts num2 + num1 
   
+    addition = num2 + num1 
+  
+  addition 
   
 end
 
